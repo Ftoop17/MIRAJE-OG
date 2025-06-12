@@ -28,7 +28,7 @@
 ## 🌟 О проекте
 
 ### Автор
-**thetemirbolatov** ([@ftoop17](https://github.com/ftoop17))
+**thetemirbolatov** 
 
 ### Контакты
 - VK: [vk.com/thetemirbolatov](https://vk.com/thetemirbolatov)
