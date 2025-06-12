@@ -1,4 +1,4 @@
-```markdown
+
 # MIRAJE | OG - Умный менеджер буфера обмена
 
 ![Логотип MIRAJE](icon.png)
